@@ -1,0 +1,14 @@
+D:\Local\2DS\DS-Luiz\Aula03RH\bin\Debug\net10.0\Aula03RH.exe
+D:\Local\2DS\DS-Luiz\Aula03RH\bin\Debug\net10.0\Aula03RH.deps.json
+D:\Local\2DS\DS-Luiz\Aula03RH\bin\Debug\net10.0\Aula03RH.runtimeconfig.json
+D:\Local\2DS\DS-Luiz\Aula03RH\bin\Debug\net10.0\Aula03RH.dll
+D:\Local\2DS\DS-Luiz\Aula03RH\bin\Debug\net10.0\Aula03RH.pdb
+D:\Local\2DS\DS-Luiz\Aula03RH\obj\Debug\net10.0\Aula03RH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local\2DS\DS-Luiz\Aula03RH\obj\Debug\net10.0\Aula03RH.AssemblyInfoInputs.cache
+D:\Local\2DS\DS-Luiz\Aula03RH\obj\Debug\net10.0\Aula03RH.AssemblyInfo.cs
+D:\Local\2DS\DS-Luiz\Aula03RH\obj\Debug\net10.0\Aula03RH.csproj.CoreCompileInputs.cache
+D:\Local\2DS\DS-Luiz\Aula03RH\obj\Debug\net10.0\Aula03RH.dll
+D:\Local\2DS\DS-Luiz\Aula03RH\obj\Debug\net10.0\refint\Aula03RH.dll
+D:\Local\2DS\DS-Luiz\Aula03RH\obj\Debug\net10.0\Aula03RH.pdb
+D:\Local\2DS\DS-Luiz\Aula03RH\obj\Debug\net10.0\Aula03RH.genruntimeconfig.cache
+D:\Local\2DS\DS-Luiz\Aula03RH\obj\Debug\net10.0\ref\Aula03RH.dll
