@@ -28,6 +28,12 @@ namespace Aula03RH.Models
             return desconto;
         }
 
+        public string ExibirPeriodoExperiencia()
+        {
+            string periodo = string.Format("{0} - {1}", DateTime.Now, DateTime.Now.AddMonths(3));
+            return periodo;
+        }
+
 
 
 
